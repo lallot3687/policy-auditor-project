@@ -20,13 +20,11 @@ Database: MySQL 8.0.
 Tools: VS Code, Git, Maven.
 
 📸 System Preview
-<img width="1030" height="923" alt="image" src="https://github.com/user-attachments/assets/fbeaac92-5a46-4c9a-84e3-a5a302339233" />
+<img width="1262" height="933" alt="image" src="https://github.com/user-attachments/assets/ed15099a-0dd6-4ad8-bf54-f0dc37ffee40" />
 
-<img width="969" height="898" alt="image" src="https://github.com/user-attachments/assets/36e97800-1a50-4ecb-a79e-cea538485fd5" />
+<img width="1277" height="933" alt="image" src="https://github.com/user-attachments/assets/ce6b988f-8e8a-4a1f-9af2-9cd38d19d49a" />
 
-
-<img width="1070" height="928" alt="image" src="https://github.com/user-attachments/assets/b61946ed-1f66-4de6-9f96-ec068377faf0" />
-
+<img width="1266" height="925" alt="image" src="https://github.com/user-attachments/assets/4bce2022-3421-4599-86d9-ad07360d0b11" />
 
 ⚙️ Logic Highlight: The Audit Service
 The core value of this project is the AuditLogService. Instead of simply updating records, the system:
